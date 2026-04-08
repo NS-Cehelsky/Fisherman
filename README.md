@@ -1,4 +1,4 @@
-# 🎣 Fisherman
+# Fisherman
 
 A fully playable fishing game that runs in the terminal, built in C.
 
